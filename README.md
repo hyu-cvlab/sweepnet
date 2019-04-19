@@ -25,9 +25,9 @@ This repository contains Matlab codes for paper, "SweepNet:Wide-baseline Omnidir
 ### Test (run_test_sweepnet.m)
 - Pretrained weights: [[sweepnet_sunny_14.mat](http://bit.ly/2UuaEiE)]
 - Set arguments in the script
- - "matconvnet_path": path to matconvnet
- - "pretrained_model": path to pretrained_weights
- - "data_opts.db_path": path to dataset
+  - "matconvnet_path": path to matconvnet
+  - "pretrained_model": path to pretrained_weights
+  - "data_opts.db_path": path to dataset
 
 - Run
 
