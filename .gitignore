@@ -1,0 +1,37 @@
+# User data
+.DS_Store
+
+# Temporary files
+*~
+*.swp
+*.asv
+
+# Data
+data
+*.png
+*.jpg
+*.gif
+
+# Data: Point cloud, mesh files, lookup table
+*.ply
+*.obj
+*.stl
+*.hwd 
+
+*.mat
+*.zip
+*.db
+
+# Compiled files
+*.o
+*.mex*
+*.dSYM
+
+# Common data/binary directories
+dump
+output
+result
+build
+
+# IDE
+*vscode
